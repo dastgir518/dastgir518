@@ -5,7 +5,7 @@
   <a href="https://fiverr.com/wordpressdev518" target="_blank">
     <img src="https://img.shields.io/badge/Fiverr-Order%20a%20Gig-green?style=flat-square&logo=fiverr" alt="Fiverr Badge" />
   </a>
-  <a href="mailto:info@dastgir.host">
+  <a href="mailto:dastgir518@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=flat-square&logo=gmail" alt="Email Badge" />
   </a>
   <a href="https://dastgir.host" target="_blank">
